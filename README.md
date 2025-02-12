@@ -1,5 +1,5 @@
 ## Hi! 
-# My name is Madelyn (she/her), and I am a current graduate student in the entomology department at Auburn Univesity. My research focuses on pollinator planting management.🐝
+My name is Madelyn (she/her), and I am a current graduate student in the entomology department at Auburn Univesity. My research focuses on pollinator planting management.🐝
 <!--
 **mgt0021/mgt0021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
